@@ -1,0 +1,1 @@
+$(document).ready(function(){var audioElement=document.createElement('audio');audioElement.setAttribute('src','sound/how.mp3');audioElement.setAttribute('autoplay','autoplay');audioElement.addEventListener("load",function(){audioElement.play();},true);});
